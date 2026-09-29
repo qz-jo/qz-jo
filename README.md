@@ -1,19 +1,26 @@
 # Hi, I'm Saif AL-Moghrabi 👋
 
-Artificial Intelligence student at **Tafila Technical University** (expected graduation **2027**) based in Amman, Jordan. I build backend applications and automation workflows, and I am developing practical skills in data analysis with Power BI.
+Artificial Intelligence student at **Tafila Technical University** (expected graduation **2027**) based in Amman, Jordan. I am building toward **data engineering** through hands-on work with SQL, PostgreSQL, Power Query, Power BI, APIs, and automation. My current projects cover data preparation and modeling, reporting, and structured workflows.
 
-## What I work with
+## Data engineering foundations
 
-- **Data & BI:** Power BI, Power Query, data modeling, DAX, dashboard design
-- **Backend & databases:** Node.js, Express, REST APIs, PostgreSQL, SQL, JWT authentication
-- **Automation & web:** n8n, JavaScript, Python, React, HTML, CSS, Git
+- **Prepare and model:** Power Query, Power BI relationships, DAX, data cleaning, dashboard design
+- **Store and query:** SQL, PostgreSQL, relational models, safe queries
+- **Connect and automate:** REST APIs, JSON, n8n webhooks, Node.js, Python, Git
 
-## Selected projects
+I am still learning to build reproducible, production-scale data pipelines. The projects below show the foundation I have built so far.
+
+## Data & analytics projects
 
 | Project | Scope | Evidence |
 | --- | --- | --- |
 | **Automotive Sales & Showroom Analytics** | Multi-page Power BI dashboard using showroom training data; sales, inventory, service, customer insights, and vehicle exploration. | [Case study](https://github.com/qz-jo/qz-jo.github.io/blob/main/case-studies/automotive-showroom-power-bi.md) |
 | **HR Headcount & Attrition** | Power BI workforce view with headcount, attrition, salary, demographics, hiring trends, and interactive filters. | [Case study](https://github.com/qz-jo/qz-jo.github.io/blob/main/case-studies/hr-analytics-power-bi.md) |
+
+## Engineering foundations
+
+| Project | Scope | Evidence |
+| --- | --- | --- |
 | **E-commerce REST API** | Express and PostgreSQL API with authentication, authorization, validation, and documented security controls. | [Repository](https://github.com/qz-jo/ecommerce-api) |
 | **Nova Tech storefront** | React storefront with demo data; separate from the API integration. | [Demo](https://saif.codes/ecommerce-api/) · [Source](https://github.com/qz-jo/ecommerce-api/tree/main/frontend) |
 | **ProctorLab** | Educational assessment and visible, session-local browser event logging. | [Demo](https://saif.codes/proctor-lab/) · [Source](https://github.com/qz-jo/proctor-lab) |
